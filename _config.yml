@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Kergosdyr
 tagline:          '개발자의 블로그'
-description:      '개발 일상 및 공부한 내용을 기록하는 블로그입니다.'
+description:      '개발 일상을 간단하게 정리하고 있어요'
 url:              https://github.com/kergosdyr/kergosdyr.github.io
 baseurl:          /
 
