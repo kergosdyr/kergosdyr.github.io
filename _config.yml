@@ -7,15 +7,15 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Kergosdyr
+tagline:          '개발자의 블로그'
+description:      '개발 일상 및 공부한 내용을 기록하는 블로그입니다.'
+url:              https://github.com/kergosdyr/kergosdyr.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           '전진'
+  url:            https://github.com/kergosdyr
 
 paginate:         5
 
