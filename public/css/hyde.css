@@ -30,9 +30,10 @@
  *
  * Update the foundational and global aspects of the page.
  */
+@import url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@2.0/nanumsquare.css);
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "NanumSquareAc", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
